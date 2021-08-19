@@ -1,0 +1,9 @@
+{"message":"Name    : BadRequestError ","level":"error","date":"2021-08-19","time":"22:08:37","timestamp":"2021-08-19T16:33:05.173Z"}
+{"message":"Status  : 400 ","level":"error","date":"2021-08-19","time":"22:08:37","timestamp":"2021-08-19T16:33:05.173Z"}
+{"message":"Message : aaaa ","level":"error","date":"2021-08-19","time":"22:08:37","timestamp":"2021-08-19T16:33:05.173Z"}
+{"message":"Name    : BadRequestError ","level":"error","date":"2021-08-19","time":"22:08:08","timestamp":"2021-08-19T16:35:19.524Z"}
+{"message":"Status  : 400 ","level":"error","date":"2021-08-19","time":"22:08:08","timestamp":"2021-08-19T16:35:19.527Z"}
+{"message":"Message : pamit8831@gmail.com This Email Is Already Taken ","level":"error","date":"2021-08-19","time":"22:08:08","timestamp":"2021-08-19T16:35:19.527Z"}
+{"message":"Name    : BadRequestError ","level":"error","date":"2021-08-19","time":"22:08:34","timestamp":"2021-08-19T16:36:52.101Z"}
+{"message":"Status  : 400 ","level":"error","date":"2021-08-19","time":"22:08:34","timestamp":"2021-08-19T16:36:52.109Z"}
+{"message":"Message : pamit8831@gmail.com This Email Is Already Taken ","level":"error","date":"2021-08-19","time":"22:08:34","timestamp":"2021-08-19T16:36:52.110Z"}
