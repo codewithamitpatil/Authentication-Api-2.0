@@ -43,10 +43,6 @@ I had do clean code with clean folder structure </br>
 
 
 
-## Folder Structure 
-
-![authentication](https://user-images.githubusercontent.com/62344675/130203373-a5d7e00a-1c40-483f-9522-1caa3f56731f.png)
-
 
 
 ## API Documentation
@@ -95,6 +91,35 @@ I had do clean code with clean folder structure </br>
 > Winston Logger
 
 > Express Status Monitor
+
+
+
+## Folder Structure 
+
+![authentication](https://user-images.githubusercontent.com/62344675/130203373-a5d7e00a-1c40-483f-9522-1caa3f56731f.png)
+
+
+
+## 404 Error Page
+
+![Screenshot (19)](https://user-images.githubusercontent.com/62344675/130204441-3d701980-20b4-48eb-addf-237bf7edaadb.png)
+
+
+## Server Monitoring
+
+![Screenshot (18)](https://user-images.githubusercontent.com/62344675/130204463-6ef28dda-5472-4524-9c20-7c2eac40dfac.png)
+
+
+## Exception Notification Mail
+
+![Screenshot (23)](https://user-images.githubusercontent.com/62344675/130205340-cfc6bf74-b18b-41a1-ae5a-8dd2b36d27ba.png)
+
+
+## Otp Notification Mail
+
+![Screenshot (22)](https://user-images.githubusercontent.com/62344675/130205403-fd572291-ca46-4f3f-95ce-b9de568183c8.png)
+
+
 
 ## config File
 
