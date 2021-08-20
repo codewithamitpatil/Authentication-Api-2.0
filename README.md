@@ -27,3 +27,34 @@
 This is an Production Ready Authentication and Authorization System .<br/>
 This project is built on REST Architecture on top of <br/>MVC AND 3 TIER ARCHITECTURE ,along with all best practises.<br/>
 With CUSTOM LOGGER AND  MONITOR AND EXCEPTION NOTIFICATION MAIL SUPPORT
+
+
+
+## API Documentation
+
+
+[Postman api documentation](https://documenter.getpostman.com/view/11617094/TzY4fv9o)
+
+
+## Features
+
+
+ 
+
+> Authentication with JWT 
+  - Login 
+  - Register 
+  - Logout
+  - Reset Password
+  - Forgot Password 
+  - New Password
+  
+> Custom Error Logger
+
+> Custom Server Monitior 
+
+> Exception Email Notification
+
+> Server Health Report
+
+> Rate Limiter
