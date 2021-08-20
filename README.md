@@ -21,6 +21,12 @@
 </p>
 
 
+## Data Flow
+
+> Main Server  =>  Routes =>  Controllers =>  Services => Model    
+> Main Server  <=  Routes <=  Controllers <=  Services <= Model    
+
+
 
 ## What I Did In This Repo ???
 
@@ -58,3 +64,17 @@ With CUSTOM LOGGER AND  MONITOR AND EXCEPTION NOTIFICATION MAIL SUPPORT
 > Server Health Report
 
 > Rate Limiter
+
+
+
+## Technology
+
+> Node Js
+
+> Express Js
+
+> MongoDb
+
+> Redis
+
+> JsonWebToken
