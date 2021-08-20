@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="hhttps://amitfoundation.herokuapp.com/">
-    <img src="brand.png" alt="Logo" width="280" height="180">
+    <img src="logo2.png" alt="Logo" width="280" height="180">
   </a>
 
   <h1 align="center">Authentication Apis 2.0</h1>
@@ -22,7 +22,7 @@
 
 
 
-## Steps to check the changes
+## What I Did In This Repo ???
 
-This is an example of how you can check the changes from previous version .
-what new things are added.
+This is an Authentication and Authorization System .
+In this project is built on rest 1
